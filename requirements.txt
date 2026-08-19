@@ -1,0 +1,12 @@
+Flask==2.3.2
+requests==2.31.0
+python-dotenv==1.0.0
+openai
+numpy>=1.26.0
+Flask-Cors==4.0.0
+wheel==0.41.2
+twilio==8.10.2
+Flask-PyMongo==2.3.0
+pymongo>=4.6,<5
+openpyxl
+gunicorn
